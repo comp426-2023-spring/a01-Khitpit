@@ -1,0 +1,14 @@
+{
+  "name": "a01-khitpit",
+  "version": "0.0.1",
+  "description": "My first webserver",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "author": "Khitpit",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
+}
