@@ -44,4 +44,4 @@ fs.readFile('./public/index.html', 'utf8', (err, data) => {
 	})
 
 });
-//gitcommit bot 93
+//gitcommit bot 94
